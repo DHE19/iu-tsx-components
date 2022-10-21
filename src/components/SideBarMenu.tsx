@@ -1,4 +1,6 @@
-const SideNavBar = () => {
+
+
+const SideBarMenu = () => {
     return (
         <div>
             new side bar
@@ -6,4 +8,4 @@ const SideNavBar = () => {
     )
 }
 
-export default SideNavBar
+export default SideBarMenu
